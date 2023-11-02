@@ -46,7 +46,7 @@ JavaScript
 
 ### Page preview
 
-![Home Page](/portfolio/src/assets/Screenshot%20(692).png)
+![Home Page](./portfolio/src/assets/Screenshot%20(692).png)
 
 ## Links
 
